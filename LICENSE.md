@@ -1,6 +1,6 @@
 # Specific Files Released under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 
-Regarding files not referenced elsewhere in LICENSE.md files:
+Regarding files not referenced elsewhere in PLATFORM_LICENSE.md and GSUSA_BRAND.md:
 
 Copyright (c) 2016 Cameron King.
 
