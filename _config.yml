@@ -1,0 +1,37 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Girl Scout Troop 1610
+tagline:             Girl Scouts of Texas Oklahoma Plains
+url:                 https://www.troop1610.org
+paginate:            10
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Girl Scout Troop 1610
+  url:               https://www.troop1610.org
+  email:             leader@troop1610.org
+
+#pages_list:       
+#  Page 1: '/page1'
+#  Page 2: '/page2'
+
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/Troop1610/troop1610.github.io.git
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
