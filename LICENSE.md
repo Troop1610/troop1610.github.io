@@ -1,6 +1,6 @@
 # Specific Files Released under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 
-Regarding files not referenced in PLATFORM_LICENSE.md:
+Regarding files not referenced elsewhere in LICENSE.md files:
 
 Copyright (c) 2016 Cameron King.
 
