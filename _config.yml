@@ -24,7 +24,7 @@ author:
 pages_list:       
   Events: '/events'
   Cookies: '/cookies'
-  Dues: '/dues'
+#  Dues: '/dues'
 
 
 # Custom vars
