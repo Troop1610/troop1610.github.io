@@ -21,9 +21,10 @@ author:
   url:               https://www.troop1610.org
   email:             leader@troop1610.org
 
-#pages_list:       
-#  Page 1: '/page1'
-#  Page 2: '/page2'
+pages_list:       
+  Events: '/events'
+  Cookies: '/cookies'
+  Dues: '/dues'
 
 
 # Custom vars
