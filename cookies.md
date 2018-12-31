@@ -26,6 +26,8 @@ title: Cookies
 
 You can request cookies for individual sales.  Please fill out this form, and the Troop Cookie Chair will contact you when your popcorn is ready to pick up.
 
+If you have specific questions, contact [cookiemom@troop1610.org](mailto:cookiemom@troop1610.org).
+
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/5k2y7h0U3Uir0nBRBY6fpQ"></script>
 <script>Cognito.load("forms", { id: "3" });</script>
