@@ -3,7 +3,7 @@ layout: page
 title: Cookies
 ---
 
-# Cookie Information
+## General Information
 
 - Cookie Information: [ABC Bakers](https://www.abcbakers.com)
 - Selling:
@@ -22,7 +22,7 @@ title: Cookies
   - [Safety Tips for Product Sales](https://www.girlscouts.org/content/dam/girlscouts-gsusa/forms-and-documents/cookie/Resources/Safety%20Tips%20Updated%20Aug%202014%20Final.pdf)
   - [Safety Activity Checkpoints 2018](https://www.girlscouts.org/content/dam/girlscouts-gsusa/forms-and-documents/cookie/Resources/GSUSA_Safety-Activity-Checkpoints_2018.pdf) pg. 58
 
-# Request Cookies
+## Request Cookies
 
 You can request cookies for individual sales.  Please fill out this form, and the Troop Cookie Chair will contact you when your popcorn is ready to pick up.
 

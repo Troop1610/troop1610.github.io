@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Cookies
+title: Pay Dues
 ---
-
-# Pay Dues
 
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/5k2y7h0U3Uir0nBRBY6fpQ"></script>
