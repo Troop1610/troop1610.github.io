@@ -29,8 +29,8 @@ You can request cookies for individual sales.  Please fill out this form, and th
 If you have specific questions, contact [cookiemom@troop1610.org](mailto:cookiemom@troop1610.org).
 
 <div class="cognito">
-<script src="https://services.cognitoforms.com/s/5k2y7h0U3Uir0nBRBY6fpQ"></script>
-<script>Cognito.load("forms", { id: "3" });</script>
+<script src="https://services.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA"></script>
+<script>Cognito.load("forms", { id: "1" });</script>
 </div>
 
-If the above form does not work, click this link: [http://bit.ly/2AmEDSy](http://bit.ly/2AmEDSy)
+If the above form does not work, click this link: [http://bit.ly/2Fc3j3t](http://bit.ly/2Fc3j3t)
