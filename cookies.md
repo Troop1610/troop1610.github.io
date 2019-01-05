@@ -24,7 +24,7 @@ title: Cookies
 
 ## Request Cookies
 
-You can request cookies for individual sales.  Please fill out this form, and the Troop Cookie Chair will contact you when your popcorn is ready to pick up.
+You can request cookies for individual sales.  Please fill out this form, and the Troop Cookie Chair will contact you when your cookies are ready to pick up.
 
 If you have specific questions, contact [cookiemom@troop1610.org](mailto:cookiemom@troop1610.org).
 
