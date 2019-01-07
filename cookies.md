@@ -3,6 +3,8 @@ layout: page
 title: Cookies
 ---
 
+<div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px">
+
 ## 2019 Updates
 
 - Timeline - [GS-TOP Forth Worth Troop Cookie Time Table](https://www.gs-top.org/content/dam/girlscouts-gs-top/cookies-2019/2019%20Fort%20Worth%20%20Troop%20Cookie%20Time%20Table.pdf)
@@ -15,6 +17,8 @@ title: Cookies
   - Patch - National Girl Scout Cookie Weekend 2019
   - Patch - Girl Scout Voice - Have a Great Girl Scout Cookie Story to Share?
   - Patch - 2019 Cookie Pro™ contest
+
+</div>
 
 ## General Information
 
