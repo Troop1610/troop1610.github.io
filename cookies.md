@@ -3,7 +3,7 @@ layout: page
 title: Cookies
 ---
 
-<div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px">
+<div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px" markdown=1>
 
 ## 2019 Updates
 
