@@ -36,7 +36,6 @@ title: Cookies
 - Cookie Collectibles: [GSUSA Shop](https://www.girlscoutshop.com/GIFTS/COOKIE-TIME-COLLECTIBLES)
 - Pins and Badges
   - [Cookie Badges Poster](https://www.girlscouts.org/content/dam/girlscouts-gsusa/forms-and-documents/cookie/Resources/GSUSA_GSM_Cookie-Badges_Poster_24x36_18.pdf)
-  - [Badges - Cookie and Financial Literacy](https://www.gs-top.org/content/dam/girlscouts-gs-top/cookies-2019/Badges%20-%20Cookies%20and%20Financial%20Literacy%20WEB.pdf)
 - Safety:
   - [Practical Tips for Parents](https://www.girlscouts.org/program/gs_cookies/pdf/2010_practical_tips_for_parents.pdf)
   - [Safety Tips for Product Sales](https://www.girlscouts.org/content/dam/girlscouts-gsusa/forms-and-documents/cookie/Resources/Safety%20Tips%20Updated%20Aug%202014%20Final.pdf)
