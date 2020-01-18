@@ -5,15 +5,13 @@ title: Cookies
 
 <div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px" markdown="1">
 
-## 2019 Updates
+## 2020 Updates
 
-- Timeline - [GS-TOP Forth Worth Troop Cookie Time Table](https://www.gs-top.org/content/dam/girlscouts-gs-top/cookies-2019/2019%20Fort%20Worth%20%20Troop%20Cookie%20Time%20Table.pdf)
-- Parent Form - Fill this out and give it to the Troop Cookie Chair
-  - [2019 Cookie Program Parent/Guardian Permission and Financial Responsibility Agreement](https://www.gs-top.org/content/dam/girlscouts-gs-top/cookies-2019/2019%20Parent%20Permission%20and%20Financial%20Responsibility%20Agreement%20Cookie%20%20-%20Abilene%20FW%20Lubbock.pdf)
-- Cookies Now Form - Fill this out and bring it with you to Cookie Now
-  - [2019 Cookies Now Parent/Guardian Permission and Financial Responsibility Agreement](https://www.gs-top.org/content/dam/girlscouts-gs-top/cookies-2019/2019%20Cookies%20Now!%20%20Permission%20Agreement.pdf)
-- Prizes - [2019 Cookie Recognitions](https://www.gs-top.org/content/dam/girlscouts-gs-top/cookies-2019/2019%20Cookie%20Recognitions-All%20Areas.jpg)
-- Opportunities - see [GS-TOP For Cookie Sellers](https://www.gs-top.org/en/cookies/for-cookie-sellers.html) for more details on each.
+- Timeline - [2020 GS-TOP Forth Worth Troop Cookie Time Table](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/one-off-documents/2019/cookies/2020%20Fort%20Worth%20Troop%20Cookie%20Time%20Table.pdf)
+- Info for Girls - [2020 Cookie Jar](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/one-off-documents/2019/cookies/2020%20Cookie%20Jar.pdf)
+- Prizes & Pins - [2020 Cookie Recognitions](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/one-off-documents/2019/cookies/2020%20Recognitions%20for%20Girls.pdf)
+- Badges - [Badge Explorer - Cookies and Financial Literacy](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/one-off-documents/2019/cookies/Badges%20-%20Cookies%20and%20Financial%20Literacy%20WEB.pdf)
+- More Resources for Sellers - [GS-TOP For Cookie Sellers](https://www.gs-top.org/en/cookies/cookie-resources.html) for more details on each.
   - Patch - National Girl Scout Cookie Weekend 2019
   - Patch - Girl Scout Voice - Have a Great Girl Scout Cookie Story to Share?
   - Patch - 2019 Cookie Pro™ contest
