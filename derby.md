@@ -23,13 +23,6 @@ Cost $10 per Girl Scout. Each scout will receive a pre-weighted Lego Derby Car B
 patch celebrating this event. We ask that you bring our own Legos and mini figures to finish 
 creating your Lego car. 
 
-Payments need to be made with your registration in order to be included in the Derby.  The 
-registration form provides the following payment options:
-- Web-Based Credit/Debit Card (plus card processing fee)
-- Zelle (682) 999-0981
-- Venmo @Megan-King-68
-- PayPal megan@uniquekings.com
-
 Can't wait to see you there!  
 _Troop 1610 & Co-Leaders Megan King and Alanna Jones_
 
