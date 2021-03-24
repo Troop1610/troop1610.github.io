@@ -98,3 +98,10 @@ so if a Scouts wants to use it on her axles, she should bring some.
 The starting block for our track looks like this:
 
 ![SuperTrack Start](/public/content/images/supertrack-start.jfif)
+
+## Register
+
+<div class="cognito">
+<script src="https://www.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA"></script>
+<script>Cognito.load("forms", { id: "14" });</script>
+</div>
