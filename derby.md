@@ -33,6 +33,13 @@ registration form provides the following payment options:
 Can't wait to see you there!  
 _Troop 1610 & Co-Leaders Megan King and Alanna Jones_
 
+## Register
+
+<div class="cognito">
+<script src="https://www.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA"></script>
+<script>Cognito.load("forms", { id: "14" });</script>
+</div>
+
 ## Rules
 
 These rules are similar to those found in most other derby races.  If you have ever 
@@ -99,9 +106,3 @@ The starting block for our track looks like this:
 
 ![SuperTrack Start](/public/content/images/supertrack-start.jfif)
 
-## Register
-
-<div class="cognito">
-<script src="https://www.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA"></script>
-<script>Cognito.load("forms", { id: "14" });</script>
-</div>
