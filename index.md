@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-Click here for more information and to register for the LEGO Derby!
+Click [here](/derby) or on the flyer below for more information and to register for the LEGO Derby!  
 
 [![LEGO Derby 2021](/public/content/images/lego-derby-flyer.png)](/derby)
 
