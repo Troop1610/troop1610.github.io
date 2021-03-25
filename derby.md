@@ -2,6 +2,13 @@
 layout: page
 title: LEGO Derby
 ---
+- [About the Derby](#about)
+- [Register](#dmv)
+- [Rules](#rules)
+- [The Track](#track)
+
+<a id="about" />
+## About the Derby
 
 Welcome to our first annual Lego Derby! Our Troop is excited to meet you and race against you. 
 Our goal is to make new friends and have fun building and racing Lego Cars with our new friends. 
@@ -26,14 +33,16 @@ creating your Lego car.
 Can't wait to see you there!  
 _Troop 1610 & Co-Leaders Megan King and Alanna Jones_
 
+<a id="dmv" />
 ## Register
 
 <div class="cognito">
-<script src="https://www.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA"></script>
+<script src="https://www.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA">If you are unable to view this form, either disable your ad-blocker, or click this link: <a href="https://www.cognitoforms.com/Troop1610Cookies/legoderbydmvoffice">https://www.cognitoforms.com/Troop1610Cookies/legoderbydmvoffice</a></script>
 <script>Cognito.load("forms", { id: "14" });</script>
 </div>
 
-## Rules
+<a id="rules" />
+## Rules of the Road
 
 These rules are similar to those found in most other derby races.  If you have ever 
 participated in a pinewood derby or LEGO derby race before, you already have a good 
@@ -94,6 +103,7 @@ All four wheels must be attached to the car.
 The recommended lubricant is graphite powder.  No graphite powder will be provided,
 so if a Scouts wants to use it on her axles, she should bring some.
 
+<a id="track" />
 ## The Track
 The starting block for our track looks like this:
 
