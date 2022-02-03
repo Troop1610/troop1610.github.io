@@ -3,25 +3,24 @@ layout: page
 title: Cookies
 ---
 
-<div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px" markdown="1">
+## Booth Signup
 
-## 2021 Updates
+Use this form to request a booth!
 
-- Cookie Booth Essentials - [Download PDF](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/annual-documents/product-program/cookies/CookieBoothEssentials.pdf)
-- FAQ about GS and Social Issues - [Download PDF](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/one-off-documents/2021/cookies/FAQs%20Social%20Issues.pdf)
-- Info for Girls - [2021 Cookie Jar PDF](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/one-off-documents/2021/cookies/cookie-jar21.pdf)
-- Cookies Now: Fort Worth: Six Flags over Texas remote parking lot
-  - Friday, January 15; 9AM - 5PM
-  - Saturday, January 16; 9AM - 2PM
-- Prizes & Pins - [2021 Cookie Recognitions PDF](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/annual-documents/product-program/cookies/recognitions.pdf)
-- Badges - [Badge Explorer - Cookies and Financial Literacy](https://www.gs-top.org/content/dam/girlscouts-gs-top/documents/one-off-documents/2019/cookies/Badges%20-%20Cookies%20and%20Financial%20Literacy%20WEB.pdf)
-- More Resources for Sellers - [GS-TOP For Cookie Sellers](https://www.gs-top.org/en/cookies/cookie-resources.html) for more details on each.
+[CLICK HERE](https://www.signupgenius.com/go/30e0f48a9aa2ca6f49-booth)
 
-![National Girl Scout Cookie Weekend 2021](/public/content/images/ntlgscwkd21.jpg)
+## Request Cookies
 
-National Girl Scout Cookie Weekend 2021 will take place February 19-21. On this weekend, Girl Scouts across the nation will band together to speak as a single, powerful voice to raise awareness of the Girl Scout Cookie Program and to drive cookie sales. GS-TOP will also be participating in the National Cookie Link that will launch during the National Girl Scout Cookie Weekend. Check back closer to our sale for more details.
+You can request cookies for individual sales. Please fill out this form, and the Troop Cookie Chair will contact you when your cookies are ready to pick up.
 
+If you have specific questions, contact [cookiemom@troop1610.org](mailto:cookiemom@troop1610.org).
+
+<div class="cognito">
+<script src="https://services.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA"></script>
+<script>Cognito.load("forms", { id: "1" });</script>
 </div>
+
+If the above form does not work, click this link: [http://bit.ly/2Fc3j3t](http://bit.ly/2Fc3j3t)
 
 ## General Information
 
@@ -46,21 +45,3 @@ National Girl Scout Cookie Weekend 2021 will take place February 19-21. On this 
   - [Safety Tips for Product Sales](https://www.girlscouts.org/content/dam/girlscouts-gsusa/forms-and-documents/cookie/Resources/Safety%20Tips%20Updated%20Aug%202014%20Final.pdf)
   - [Safety Activity Checkpoints 2018](https://www.girlscouts.org/content/dam/girlscouts-gsusa/forms-and-documents/cookie/Resources/GSUSA_Safety-Activity-Checkpoints_2018.pdf) pg. 58
 
-## Booth Signup
-
-Use this form to request a booth!
-
-[CLICK HERE](https://www.signupgenius.com/go/30e0f48a9aa2ca6f49-cookie)
-
-## Request Cookies
-
-You can request cookies for individual sales. Please fill out this form, and the Troop Cookie Chair will contact you when your cookies are ready to pick up.
-
-If you have specific questions, contact [cookiemom@troop1610.org](mailto:cookiemom@troop1610.org).
-
-<div class="cognito">
-<script src="https://services.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA"></script>
-<script>Cognito.load("forms", { id: "1" });</script>
-</div>
-
-If the above form does not work, click this link: [http://bit.ly/2Fc3j3t](http://bit.ly/2Fc3j3t)
