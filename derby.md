@@ -8,15 +8,15 @@ title: LEGO Derby
 - [The Track](#track)
 
 <a id="about" />
-## About the Derby
+## About the Derby (2022)
 
-Welcome to our first annual Lego Derby! Our Troop is excited to meet you and race against you. 
+Welcome to our second annual Lego Derby! Our Troop is excited to meet you and race against you. 
 Our goal is to make new friends and have fun building and racing Lego Cars with our new friends. 
 If you are interested, please sign up below by Tuesday, May 4th. 
 
 <div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px" markdown="1">
 
-**Time**: Saturday, May 22, 4-6pm  
+**Time**: Saturday, April 9, 2022 (time TBD)
 **Location**: Woodland West Church of Christ (Gym, East Side)
 3101 W. Park Row Dr, Arlington, TX
 
@@ -100,8 +100,9 @@ time for car-building!)
 All four wheels must be attached to the car.
 
 ### 6. Wheel bearings, washers, brushing, springs, liquid lubricant, loose materials (such a lead shot), and “starting devices” are prohibited.
-The recommended lubricant is graphite powder.  No graphite powder will be provided,
-so if a Scouts wants to use it on her axles, she should bring some.
+The recommended lubricant is dry graphite powder.  No graphite powder will be provided,
+so if a scout wants to use it on her axles, she should bring some.  Graphite powder
+for derby cars can be purchased in advance from Amazon.
 
 <a id="track" />
 ## The Track
