@@ -12,19 +12,18 @@ title: LEGO Derby
 
 Welcome to our second annual Lego Derby! Our Troop is excited to meet you and race against you. 
 Our goal is to make new friends and have fun building and racing Lego Cars with our new friends. 
-If you are interested, please sign up below by Tuesday, March 25th. 
+If you are interested, please sign up below by Friday, March 25th. 
 
 <div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px" markdown="1">
 
-**Time**: Saturday, April 9, 2022 at 2pm<br/>
+**Time**: Saturday, April 9, 2022 at 1:30pm<br/>
 **Location**: Woodland West Church of Christ (Gym, East Side)<br />
 3101 W. Park Row Dr, Arlington, TX
 
 </div>
 
-Depending upon the number of Girl Scouts who RSVP, we may have to sub-divide entries into 
-time slots to accomodate social distancing.  If this occurs, we will communicate your 
-scheduled time in advance of the race.
+Everyone should plan to arrive at 1:30pm, with check-in cutoff at 1:45pm.  Races will begin at
+2pm.  We will race by age level, with the younger scouts going first.
 
 Cost $10 per Girl Scout. Each scout will receive a pre-weighted Lego Derby Car Base, a fun 
 patch celebrating this event, and a small selection of LEGOs you can use to decorate your car.
@@ -79,9 +78,10 @@ reasonably accurate results. Come to check in prepared to tweak your car’s wei
 if required. (The check-in scale is the final authority on car weight, no matter 
 what your scale at home says.)
 
-The following items will be provided to Scouts at check-in:
+The following items will be provided to Scouts in advance:
 - 2.2oz Wheel Kit
 - 0.45oz 6x16 Nib Car Base
+- extra LEGO pieces
 
 ![LEGO Kit](/public/content/images/lego-kit.jpg)
 
