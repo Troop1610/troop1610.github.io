@@ -16,8 +16,8 @@ If you are interested, please sign up below by Tuesday, March 25th.
 
 <div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px" markdown="1">
 
-**Time**: Saturday, April 9, 2022 at 2pm
-**Location**: Woodland West Church of Christ (Gym, East Side)
+**Time**: Saturday, April 9, 2022 at 2pm<br/>
+**Location**: Woodland West Church of Christ (Gym, East Side)<br />
 3101 W. Park Row Dr, Arlington, TX
 
 </div>
