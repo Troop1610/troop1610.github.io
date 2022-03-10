@@ -3,6 +3,10 @@ layout: page
 title: Cookies
 ---
 
+The 2022 cookie season is over, check back next Winter for updated information!
+
+---
+
 ## Booth Signup
 
 Use this form to request a booth!
