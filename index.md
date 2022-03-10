@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-[![Lego Derby Flyer](/content/images/lego-derby-flyer.png)](/derby/)
+[![Lego Derby Flyer](/public/content/images/lego-derby-flyer.png)](/derby/)
 
 ## About Us
 
