@@ -12,11 +12,11 @@ title: LEGO Derby
 
 Welcome to our second annual Lego Derby! Our Troop is excited to meet you and race against you. 
 Our goal is to make new friends and have fun building and racing Lego Cars with our new friends. 
-If you are interested, please sign up below by Tuesday, May 4th. 
+If you are interested, please sign up below by Tuesday, March 25th. 
 
 <div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px" markdown="1">
 
-**Time**: Saturday, April 9, 2022 (time TBD)
+**Time**: Saturday, April 9, 2022 at 2pm
 **Location**: Woodland West Church of Christ (Gym, East Side)
 3101 W. Park Row Dr, Arlington, TX
 
@@ -26,18 +26,18 @@ Depending upon the number of Girl Scouts who RSVP, we may have to sub-divide ent
 time slots to accomodate social distancing.  If this occurs, we will communicate your 
 scheduled time in advance of the race.
 
-Cost $10 per Girl Scout. Each scout will receive a pre-weighted Lego Derby Car Base and a fun 
-patch celebrating this event. We ask that you bring our own Legos and mini figures to finish 
-creating your Lego car. 
+Cost $10 per Girl Scout. Each scout will receive a pre-weighted Lego Derby Car Base, a fun 
+patch celebrating this event, and a small selection of LEGOs you can use to decorate your car.
+If you would like, you may also bring additional LEGOs from home.
 
 Can't wait to see you there!  
-_Troop 1610 & Co-Leaders Megan King and Alanna Jones_
+_Trinity Oaks LEGO Derby Committee_
 
 <a id="dmv" />
 ## Register
 
 <div class="cognito">
-<script src="https://www.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA">If you are unable to view this form, either disable your ad-blocker, or click this link: <a href="https://www.cognitoforms.com/Troop1610Cookies/legoderbydmvoffice">https://www.cognitoforms.com/Troop1610Cookies/legoderbydmvoffice</a></script>
+<script src="https://www.cognitoforms.com/s/5CGgOlOKDkeFvcJcptH6IA"></script>
 <script>Cognito.load("forms", { id: "14" });</script>
 </div>
 
@@ -51,9 +51,12 @@ idea of what is goiing on.
 ### 1. Cars should be made by Girl Scouts in the current year.
 The final assembly for all cars will be performed on-site using the kit provided.
 
-Girls should come with their own LEGOs and minifigures (if desired).
+Cars can be assembled ahead of time.  The size of the build plate is 6x16, and will be
+provided in your kit that you will recieve in advance.  You are allowed to glue your pieces
+on, if you desire; however, any glued pieces must be completely dry prior to the event.
 
-Cars can be partially assembled ahead of time.  The size of the base plate is 6x16.
+It is especially helpful to glue the baseplate to the weighted wheel piece, as that is
+the most likely place for the car to "come apart."
 
 ### 2. Max width is 3 inches.
 This includes all parts, including decorations.
