@@ -16,14 +16,16 @@ If you are interested, please sign up below by Friday, March 25th.
 
 <div style="border-color:#00cc00; border-style:double; border-width:thick; padding: 10px" markdown="1">
 
-**Time**: Saturday, April 9, 2022 at 1:30pm<br/>
+**Time**: Saturday, April 9, 2022 at 1:30pm (1pm if building a car on-site)<br/>
 **Location**: Woodland West Church of Christ (Gym, East Side)<br />
 3101 W. Park Row Dr, Arlington, TX
 
 </div>
 
-Everyone should plan to arrive at 1:30pm, with check-in cutoff at 1:45pm.  Races will begin at
-2pm.  We will race by age level, with the younger scouts going first.
+Everyone should plan to arrive at 1:30pm if their car is pre-built (or 
+1pm if they plan to build a car on-site), with check-in cutoff at 1:45pm.  
+Races will begin at 2pm.  We will race by age level, with the 
+younger scouts going first.
 
 Cost $10 per Girl Scout. Each scout will receive a pre-weighted Lego Derby Car Base, a fun 
 patch celebrating this event, and a small selection of LEGOs you can use to decorate your car.
@@ -48,11 +50,10 @@ participated in a pinewood derby or LEGO derby race before, you already have a g
 idea of what is goiing on.
 
 ### 1. Cars should be made by Girl Scouts in the current year.
-The final assembly for all cars will be performed on-site using the kit provided.
-
 Cars can be assembled ahead of time.  The size of the build plate is 6x16, and will be
 provided in your kit that you will recieve in advance.  You are allowed to glue your pieces
-on, if you desire; however, any glued pieces must be completely dry prior to the event.
+on, if you desire; however, any glued pieces must be completely dry prior to final checkin
+(1:45pm).
 
 It is especially helpful to glue the baseplate to the weighted wheel piece, as that is
 the most likely place for the car to "come apart."
